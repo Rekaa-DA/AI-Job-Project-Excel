@@ -97,7 +97,7 @@ Dashboard Preview
 
 ## 📌 Final Outcome
 
-✨ This project delivers a complete **interactive AI Jobs Dashboard** that helps understand global hiring trends, salary distribution, skill demand, and career growth opportunities in the AI industry.
+✨ This project delivers a complete interactive AI Jobs Dashboard analyzing over 1,500 job records to understand global hiring trends in the AI industry. It provides insights into an average salary of around $194,892 USD, showing strong earning potential across roles and regions. The dashboard highlights key skill demand, with Python appearing in more than 70% of job listings, making it the most critical skill. Overall, it helps identify salary growth patterns of up to 40.38% and supports clear understanding of career opportunities in the AI job market.
 
 ---
 
