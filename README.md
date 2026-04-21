@@ -47,6 +47,24 @@ Dashboard Preview
 | Growth Rate | 40.38% |
 | Top Skill | Python (70%+) |
 | Top Role | LLM Engineer |
+
+📌 Insights
+- USA dominates the AI job market with the highest number of opportunities and salary concentration
+- Python is the most in-demand skill, appearing in 70%+ of job listings
+- Senior-level roles earn 2x to 3x higher salaries compared to entry-level positions
+- Remote and hybrid work modes together account for nearly two-thirds of job postings
+- LLM Engineer and related AI/ML roles are among the highest-paying job categories
+- Strong correlation observed between experience level and salary growth
+- Europe, India, Canada, and UK contribute significantly to global AI hiring demand
+
+🧠 Conclusion
+- The AI job market is rapidly growing with strong global demand
+- Salary levels increase significantly with experience and specialization
+- Python remains the core skill for most AI-related roles
+- Remote and hybrid work models are becoming standard in AI industry
+- High-paying opportunities are concentrated in advanced AI roles like LLM Engineers
+- Overall, the market shows strong growth, high demand, and skill-driven salary distribution
+
 Rekaa
 📊 Aspiring Data Analyst
 🚀 Open to opportunities
