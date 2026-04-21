@@ -7,100 +7,73 @@ Dashboard Preview
 
 ---
 
-## 📌 Project Overview
+📌 Project Summary
 
-📊 This project analyzes **global AI job market data using Excel dashboards** to understand salary trends, skill demand, job distribution, and work patterns.
-🎯 It provides insights into how AI careers are evolving across countries, experience levels, and roles using interactive visualizations.
+📊 End-to-end Excel Data Analytics Project focused on analyzing global AI job market data to understand salary trends, skill demand, job distribution, and work patterns.
+🎯 The project delivers data-driven insights using dashboards and visualizations based on 1,500+ job records to understand evolving AI career opportunities.
 
----
+🚀 Tech Stack
+<p> <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Pivot%20Tables-025E8C"/> <img src="https://img.shields.io/badge/Data%20Visualization-F2C811"/> <img src="https://img.shields.io/badge/Dashboard%20Design-742774"/> </p>
+⚡ Tech Hacks (Smart Work)
+Used Pivot Tables & Charts to summarize 1,500+ records efficiently
+Applied data cleaning techniques to handle missing and inconsistent values
+Built interactive dashboards for better user experience
+Used Map Charts to visualize country-wise job distribution
+Applied Scatter & Trend Analysis to study salary vs demand relationship
+Designed visuals to highlight key insights clearly
+🎯 Objectives
+Analyze AI job distribution across different countries
+Evaluate salary variations across experience levels
+Understand job distribution based on education levels
+Identify high-paying AI roles and salary ranges
+Analyze demand vs salary relationship
+Visualize global job distribution using maps
+Evaluate work mode preferences (Remote, Hybrid, On-site)
+Identify most in-demand AI skills
+📊 Key Metrics
+Metric	Value
+💰 Average Salary	$194,892 USD
+📌 Total Records	1,500 Jobs
+📈 Growth Rate	40.38%
+🧠 Top Skill	Python (70%+)
+💼 Top Role	LLM Engineer
+📊 Dashboard Insights
+🇺🇸 USA dominates AI job opportunities and salary concentration
+🌍 India, UK, Canada, and Europe contribute significantly to global demand
+💰 Average salary is ~$194,892, showing strong earning potential
+📈 Senior roles earn 2x–3x higher than entry-level positions
+🧠 Python appears in 70%+ job listings, making it the top skill
+🏠 Work modes → Remote (34%), Hybrid (33%), On-site (33%)
+🤖 LLM Engineer is one of the top high-paying roles
+🧠 Key Insights
+Global AI demand is concentrated in developed regions
+Salary growth is strongly linked with experience level
+Python dominates as the core AI skill
+High-paying roles are often specialized
+Work flexibility is increasing across roles
+Education impacts job eligibility
+AI market shows strong future growth potential
+📈 Analytics Approach
+Descriptive → $194,892 avg salary
+Diagnostic → Driven by USA & experienced professionals
+Predictive → Continued strong salary growth trend
+Prescriptive → Focus on high-demand skills like Python
+📌 Final Conclusion
+Analysis based on 1,500+ job records
+Average salary → $194,892 USD
+Python demand → 70%+ listings
+USA dominates global opportunities
+Senior roles earn 2x–3x higher salaries
+Work modes → 34% Remote, 33% Hybrid, 33% On-site
+Top role → LLM Engineer
+Growth rate → 40.38%
+🛠️ Tools Used
+Microsoft Excel
+Pivot Tables & Charts
+Data Cleaning & Transformation
+Dashboard Design
+👤 Author
 
-## 🎯 8 Objectives
-
-1. **To analyze** the distribution of AI job opportunities across different countries.
-2. **To analyze** salary variations across different experience levels.
-3. **To analyze** job distribution based on education and qualification levels.
-4. **To analyze** high-paying AI job roles and their salary ranges.
-5. **To analyze** the relationship between job demand and salary levels.
-6. **To analyze** global AI job distribution using geographical visualizations.
-7. **To analyze** work mode preferences such as Remote, Hybrid, and On-site.
-8. **To analyze** the most in-demand AI skills in the global market.
-
----
-
-## 📊 Dashboard Key Metrics
-
-💰 Average Salary → **$194,892 USD**
-📌 Total Records Analyzed → **1,500 Jobs**
-📈 Salary Growth Rate → **40.38%**
-🧠 Top Skill → **Python**
-💼 Top Role → **LLM Engineer**
-
----
-
-## 🔍 7 Key Insights 
-
-1. The USA dominates AI job opportunities, contributing the highest share of global AI roles and salary concentration.
-2. India, UK, Canada, and Europe collectively account for a significant portion of global AI job demand.
-3. The average AI job salary is approximately **$194,892**, showing strong earning potential in the field.
-4. Salary increases significantly with experience, with senior roles earning nearly **2x–3x more** than entry-level positions.
-5. Python is the most in-demand skill, appearing in over **70% of AI job listings** analyzed.
-6. Work mode distribution is balanced, with Remote (**34%**), Hybrid (**33%**), and On-site (**33%**) showing near-equal demand.
-7. Demand vs Salary analysis shows that some niche AI roles offer higher salaries even with moderate job demand.
-
----
-
-## 📈 Key Analysis Areas
-
-📌 Country-wise AI job distribution
-📌 Salary trends across experience levels
-📌 Job role vs salary comparison
-📌 Demand vs salary relationship
-📌 Work mode trends (Remote/Hybrid/On-site)
-📌 Skill demand analysis
-📌 Education vs job opportunities
-
----
-
-## 📊 Dashboard Features
-
-* 🎛 Interactive slicers (Experience Level filtering)
-* 🌍 Map visualization for global job distribution
-* 📊 Multi-chart analysis (Bar, Line, Pie, Scatter)
-* 📈 Trend analysis for salary growth
-* 🧠 Skill demand heat insights
-* 💼 Role-wise salary comparison
-
----
-
-## 🧠 Key Insights Summary
-
-📊 The AI job market is highly concentrated in the USA with strong global participation from India and Europe.
-💰 Salary growth is strongly linked with experience level progression.
-🧠 Python remains the most critical and widely used AI skill.
-🏠 Work culture is shifting toward remote and hybrid models.
-📈 High-paying roles are often specialized rather than high-demand roles.
-🎓 Bachelor’s and Master’s degrees dominate AI job eligibility.
-🚀 The AI industry shows strong future growth potential with increasing salary trends.
-
----
-
-## 🛠️ Tools Used
-
-* Microsoft Excel
-* Pivot Tables & Pivot Charts
-* Data Cleaning & Transformation
-* Map Charts
-* Scatter & Trend Analysis
-* Dashboard Design
-
----
-
-## 📌 Final Outcome
-
-✨ This project delivers a complete interactive AI Jobs Dashboard analyzing over 1,500 job records to understand global hiring trends in the AI industry. It provides insights into an average salary of around $194,892 USD, showing strong earning potential across roles and regions. The dashboard highlights key skill demand, with Python appearing in more than 70% of job listings, making it the most critical skill. Overall, it helps identify salary growth patterns of up to 40.38% and supports clear understanding of career opportunities in the AI job market.
-
----
-
-## 👤 Author
-
-**Rekaa**
+Rekaa
+📊 Aspiring Data Analyst
+🚀 Open to opportunities
